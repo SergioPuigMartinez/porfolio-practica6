@@ -1,5 +1,6 @@
 ---
-tittle: default
+tittle: Entornos de desarrollo
+layout: default
 nav-order: 1
 parent: Home
 ---
