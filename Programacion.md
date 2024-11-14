@@ -1,6 +1,6 @@
 ---
-tittle: Programacion
+title: Programacion
 layout: default
-nav-order: 1
+nav_order: 6
 parent: Home
 ---
