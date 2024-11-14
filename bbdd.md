@@ -1,5 +1,5 @@
 ---
-tittle: Base de datos
+title: Base de datos
 layout: default
 nav_order: 1
 parent: Home
